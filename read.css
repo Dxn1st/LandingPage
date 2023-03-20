@@ -1,0 +1,56 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+    text-align: left;
+    padding-top: 119px;
+    background-image: url(https://i.ibb.co/6Pj0W1j/Vector.jpg); /*COPIAR O LINK DA IMAGEM GERADA PELO IMGBB E COLAR AQUI*/
+    background-repeat: no-repeat; /*NÃO REPETIR A IMAGEM NO SITE*/
+    background-size: cover; 
+
+    height: 100vh; /*OCUPAR A TELA INTEIRA*/
+}
+
+.enredo{
+    position: absolute;
+width: 330px;
+height: 32px;
+left: 233px;
+top: 77px;
+color: #ffce1b;
+font-family: 'Emilys Candy';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+}
+
+
+
+
+
+p{
+ margin-top: 50px;
+ margin-left: 69px;
+ margin-right: 698px;
+ margin-bottom: 71px;
+ color: white;
+ opacity: 0.7;
+ font-family: 'Inter';
+ font-style: italic;
+ font-size: 20px;
+ line-height: 129.52%;
+ font-weight: 400;
+ position: absolute;
+ width: 657px;
+ height: 625px;
+ left: 69px;
+ top: 152px;
+}
