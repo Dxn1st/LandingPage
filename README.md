@@ -1,6 +1,6 @@
 <h1 align="center"> Landing Page</h1>
 
-![image](https://user-images.githubusercontent.com/100106600/219488458-e0c6a629-d895-4156-9876-0a316e757f3b.png)
+![image](https://user-images.githubusercontent.com/100106600/226462050-eb416200-48c1-4081-b6be-874f4541c98a.jpg)
 
 ## 🚀 Tecnologias
 
