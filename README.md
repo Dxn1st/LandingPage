@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 
 ## 💻 Projeto
-Este ptojeto é uma página de destino criada para direcionar o tráfego de marketing para uma oferta específica e persuadir o visitante a tomar uma ação desejada, como preencher um formulário ou comprar um produto.
+Este projeto é uma página de destino criada para direcionar o tráfego de marketing para uma oferta específica e persuadir o visitante a tomar uma ação desejada, como preencher um formulário ou comprar um produto.
 
 ## 🔖 Layout
 
