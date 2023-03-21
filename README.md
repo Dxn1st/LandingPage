@@ -8,6 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Adobe Photoshop/IA
+- Figma
 
 ## 💻 Projeto
 Este projeto é uma página de destino criada para direcionar o tráfego de marketing para uma oferta específica e persuadir o visitante a tomar uma ação desejada, como se informar sobre produto ou compra-lo.
